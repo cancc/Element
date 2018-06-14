@@ -35,6 +35,6 @@ export default {
 <style>
 #app {
   font-family: Helvetica, sans-serif;
-  text-align: center;
+  
 }
 </style>
